@@ -6,7 +6,9 @@ A large part of recent research in language technology (LT) is restricted to a s
 
 ## Monday
 
-Definitions of low-resource languages in linguistics and computational linguistics, overview of the main language technology applications and their resource requirements
+Definitions of low-resource languages in linguistics and computational linguistics
+
+Overview of the main language technology applications and their resource requirements
 
 * Yulia Tsvetkov (2017): Opportunities and challenges in working with low-resource languages. (Slides, Part 1)
 http://www.cs.cmu.edu/~ytsvetko/jsalt-part1.pdf 
@@ -16,7 +18,11 @@ http://www.meta-net.eu/vision/reports/meta-net-sra-version_1.0.pdf
 
 ## Tuesday
 
-Annotation; data transfer vs. model transfer; data transfer approaches (annotation projection, training data translation, ...)
+Annotation
+
+Data transfer vs. model transfer
+
+Data transfer approaches: annotation projection, training data translation, ...
 
 * Dan Garrette & Jason Baldridge (2013): Learning a part-of-speech tagger from two hours of annotation. Proceedings of NAACL-HLT.
 http://www.aclweb.org/anthology/N13-1014 
@@ -29,7 +35,7 @@ https://www.jair.org/index.php/jair/article/view/10980
 
 ## Wednesday
 
-Model transfer approaches (plain model transfer, delexicalization, relexicalization, cross-lingual clusters and embeddings)
+Model transfer approaches: plain model transfer, delexicalization, relexicalization, cross-lingual clusters and embeddings
 
 * Ryan McDonald, Slav Petrov & Keith Hall (2011): Multi-source transfer of delexicalized dependency parsers. Proceedings of EMNLP.
 https://www.aclweb.org/anthology/D11-1006 
