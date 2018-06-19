@@ -14,12 +14,12 @@ http://www.cs.cmu.edu/~ytsvetko/jsalt-part1.pdf
 * META-NET Strategic Research Agenda for Multilingual Europe 2020. (Sections 1, 2, and 4)
 http://www.meta-net.eu/vision/reports/meta-net-sra-version_1.0.pdf 
 
-* Dan Garrette & Jason Baldridge (2013): Learning a part-of-speech tagger from two hours of annotation. Proceedings of NAACL-HLT.
-http://www.aclweb.org/anthology/N13-1014 
-
 ## Tuesday
 
-Annotation projection using parallel corpora
+Annotation; data transfer vs. model transfer; data transfer approaches (annotation projection, training data translation, ...)
+
+* Dan Garrette & Jason Baldridge (2013): Learning a part-of-speech tagger from two hours of annotation. Proceedings of NAACL-HLT.
+http://www.aclweb.org/anthology/N13-1014 
 
 * David Yarowsky & Grace Ngai (2001): Inducing multilingual POS taggers and NP bracketers via robust projection across aligned corpora. Proceedings of NAACL-HLT.
 http://aclweb.org/anthology/N/N01/N01-1026.pdf 
@@ -29,7 +29,7 @@ https://www.jair.org/index.php/jair/article/view/10980
 
 ## Wednesday
 
-Delexicalisation and relexicalisation approaches
+Model transfer approaches (plain model transfer, delexicalization, relexicalization, cross-lingual clusters and embeddings)
 
 * Ryan McDonald, Slav Petrov & Keith Hall (2011): Multi-source transfer of delexicalized dependency parsers. Proceedings of EMNLP.
 https://www.aclweb.org/anthology/D11-1006 
